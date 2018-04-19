@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Frequented By"
+    id="d6758645">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_5249e06b.xml#5249e06b"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_d3ab81b5.xml#d3ab81b5"/>
+</archimate:ServingRelationship>

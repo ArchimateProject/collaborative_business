@@ -1,0 +1,11 @@
+<archimate:RealizationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="211db305">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_a0678fb9.xml#a0678fb9"/>
+  <target
+      xsi:type="archimate:Requirement"
+      href="Requirement_142b1bac.xml#142b1bac"/>
+</archimate:RealizationRelationship>

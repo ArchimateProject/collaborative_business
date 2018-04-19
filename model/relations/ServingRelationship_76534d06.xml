@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Used By"
+    id="76534d06">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_14fa02f7.xml#14fa02f7"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_d3ab81b5.xml#d3ab81b5"/>
+</archimate:ServingRelationship>

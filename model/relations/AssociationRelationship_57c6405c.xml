@@ -1,0 +1,11 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="57c6405c">
+  <source
+      xsi:type="archimate:CommunicationNetwork"
+      href="CommunicationNetwork_17f47de7.xml#17f47de7"/>
+  <target
+      xsi:type="archimate:Location"
+      href="Location_fe6cdd20.xml#fe6cdd20"/>
+</archimate:AssociationRelationship>

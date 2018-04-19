@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Leased/Owned By"
+    id="37568229">
+  <source
+      xsi:type="archimate:Location"
+      href="Location_fe6cdd20.xml#fe6cdd20"/>
+  <target
+      xsi:type="archimate:BusinessCollaboration"
+      href="BusinessCollaboration_0edf9e51.xml#0edf9e51"/>
+</archimate:ServingRelationship>

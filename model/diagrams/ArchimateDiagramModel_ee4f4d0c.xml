@@ -1,0 +1,19 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for Business Process"
+    id="ee4f4d0c"
+    viewpoint="8">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="5afa4001">
+    <bounds
+        x="336"
+        y="84"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:BusinessProcess"
+        href="BusinessProcess_d1588283.xml#d1588283"/>
+  </children>
+</archimate:ArchimateDiagramModel>
